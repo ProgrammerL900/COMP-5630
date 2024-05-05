@@ -1,2 +1,2 @@
 # COMP-5630
-Machine Learning
+Machine Learning Spring 2024
